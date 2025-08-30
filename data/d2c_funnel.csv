@@ -1,0 +1,11 @@
+Stage,Metric,Value
+Awareness,CTR (%),1.2
+Awareness,Bounce Rate (%),68
+Interest,Add to Cart Rate (%),4.5
+Interest,Email Signup Rate (%),2.1
+Desire,Abandoned Cart Rate (%),62
+Desire,Offer Click Rate (%),7.8
+Conversion,CAC (Customer Acquisition Cost),1200
+Conversion,LTV (Customer Lifetime Value),2400
+Advocacy,Referral Rate (%),1.5
+Advocacy,Repeat Purchase Rate (%),9.8

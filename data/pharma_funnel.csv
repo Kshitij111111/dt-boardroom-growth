@@ -1,0 +1,9 @@
+Stage,Metric,Value
+Manufacturer,Production Delay (days),4
+Manufacturer,Compliance Issues (%),3
+Distributor,Stock-out Incidents,12
+Distributor,Inventory Accuracy (%),76
+Retailer,Order Fulfillment Delay (days),6
+Retailer,Return Rate (%),8
+Patient,Medicine Availability (%),82
+Patient,Customer Complaints,15
