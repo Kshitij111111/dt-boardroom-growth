@@ -1,21 +1,80 @@
-# DT Boardroom Lab — Growth Engineering
+\# DT Fellowship Simulation Project � Boardroom Growth Dashboard
 
-## 📌 Overview
-This repository contains my submission for the **DT Fellowship Simulation (Boardroom Lab)**.  
-The challenge: break down a **Growth Engineering problem** into structured steps, design experiments, and present clear insights.
 
-## 📂 Repository Structure
-- `analysis/` → Deep-dive notebooks and reports  
-- `dashboard/` → Streamlit dashboards & visualization files  
-- `app.py` → Main entry point for the Streamlit dashboard  
-- `data/` → Sample/mock datasets (`mock_funnel.csv`)  
-- `funnel_diagnosis.md` → Funnel analysis write-up  
-- `prompts/` → Role-specific prompt strategies  
-- `requirements.txt` → All dependencies  
-- `.gitignore` → Ignore rules for venv/logs/etc  
 
-## 🚀 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/Kshitij111111/dt-boardroom-growth.git
-   cd dt-boardroom-growth
+\## Overview
+
+This project is part of the DT Fellowship Simulation Assignment (Boardroom Lab).
+
+It demonstrates structured growth strategy using analytics, experiments, and storytelling.
+
+
+
+\## Mission
+
+Simulate boardroom-level growth decision-making using AI, funnel analysis, and dashboards.
+
+
+
+\## Steps Implemented
+
+1\. Problem Understanding
+
+2\. Market Research
+
+3\. Hypothesis Formation
+
+4\. Experiment Design
+
+5\. Metrics \& Tracking
+
+6\. Execution Plan
+
+7\. Reflection \& Learnings
+
+
+
+---
+
+
+
+\## Features
+
+\- Interactive funnel visualization (Lead ? Client)
+
+\- AI-powered prompt generation for campaigns
+
+\- Multi-page Streamlit app: Dashboard | Strategy | Report
+
+\- Export reports as CSV
+
+\- Boardroom recommendations
+
+
+
+\## Learnings
+
+\- Breaking ambiguity into small steps
+
+\- Aligning insights with business outcomes
+
+\- Designing scalable growth experiments
+
+
+
+
+
+\## Setup
+
+1\. Clone repo
+
+2\. `pip install -r requirements.txt`
+
+3\. `streamlit run app.py`
+
+
+
+
+
+&nbsp;Author: Kshitij Sharma
+

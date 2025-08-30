@@ -1,8 +1,12 @@
 import streamlit as st
 
-st.title("📝 Strategy Notes")
+st.title("📝 Strategic Summary")
 
-st.subheader("Baby Steps & Reflections")
-st.write("- Round 1: Learned structured problem solving")
-st.write("- Round 2: Connected strategy to numbers")
-st.write("- Round 3: Turning insights into campaigns")
+st.write("""
+Reflect on:
+- How AI-driven prompting changed the narrative
+- Your mindset as a Growth Analyst iterating strategy
+- Recommendations based on funnel metrics
+""")
+
+st.text_area("Enter Your Strategic Notes Here", height=200)

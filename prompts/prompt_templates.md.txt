@@ -1,0 +1,27 @@
+# AI Prompt Templates for DT Fellowship Simulation
+
+## Persona: CTO D2C
+**Goal:** Generate personalized email using AIDCA
+**Prompt:**
+- Attention: Capture tech innovation interest
+- Interest: Benchmark current metrics
+- Desire: Show benefits of AI-driven solutions
+- Conviction: Share case studies of successful D2C brands
+- Action: Schedule a demo
+
+**Cialdini Principles:** Authority, Scarcity
+**Negative Prompt:** Avoid generic marketing language
+
+---
+
+## Persona: COO Pharma SME
+**Goal:** Generate email for operational efficiency
+**Prompt:**
+- Attention: Industry pain points in Pharma operations
+- Interest: Highlight AI automation solutions
+- Desire: Emphasize reduced errors and time savings
+- Conviction: Include client testimonials
+- Action: Book a consultation call
+
+**Cialdini Principles:** Reciprocity, Social Proof
+**Negative Prompt:** Avoid irrelevant stats or pharma jargon
