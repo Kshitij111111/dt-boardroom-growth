@@ -1,9 +1,4 @@
-Stage,Channel,Conversions
-Awareness,Social Media,150
-Awareness,Email,100
-Consideration,Social Media,80
-Consideration,Email,60
-Decision,Social Media,50
-Decision,Email,40
-Purchase,Social Media,30
-Purchase,Email,20
+Persona,Industry,Stage,Response Rate,Drop off Reason,Campaign Message Summary
+CTO ,D2C,Lead,80,Low trust,Email A
+COO ,Pharma,MQL,60,Weak CTA,Email B
+CEO ,D2C,SQL,30,Wrong tone,Email C
